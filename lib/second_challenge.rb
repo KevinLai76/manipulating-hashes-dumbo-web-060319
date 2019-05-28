@@ -7,8 +7,8 @@ def second_challenge
   }
 
   #code your solution here!
-  groceries.values
-    
+  all_groceries = groceries.values
+  all_groceries.each do |  
   
 
 end
